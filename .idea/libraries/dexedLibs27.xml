@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dexedLibs27">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/bin/dexedLibs/annotations-71d57723ba71f6b867d4c18862ec4d4b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/bin/dexedLibs/gson-2.2.4-bde0194d30026c9e39ed83f2ad5dbb00.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/bin/dexedLibs/android-support-v4-9ff0d4d9670bab5f70530c0fbdabf3ab.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/bin/dexedLibs/annotations-7e80f6f7c9d949b206a3796ca0225e80.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/bin/dexedLibs/android-support-v4-a846459380969962ddd46159508cf19e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-support-v49">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第8章/PlayAudioTest/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

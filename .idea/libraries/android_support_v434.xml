@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-support-v434">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第8章/PlayVideoTest/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

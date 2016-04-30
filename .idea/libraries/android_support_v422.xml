@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-support-v422">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第7章/DatabaseTest/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

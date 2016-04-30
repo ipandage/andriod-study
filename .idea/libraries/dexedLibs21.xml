@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第3章/UIListViewTest/bin/dexedLibs/android-support-v4-ef0a3029a35378b99da14e70714d2d9e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第3章/UIListViewTest/bin/dexedLibs/annotations-71d57723ba71f6b867d4c18862ec4d4b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

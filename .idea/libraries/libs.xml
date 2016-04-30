@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

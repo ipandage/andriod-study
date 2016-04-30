@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第11章/BaiduMapTest/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第11章/BaiduMapTest/libs/baidumapapi_v2_3_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs20">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第12章/AccelerometerSensorTest/bin/dexedLibs/android-support-v4-1e7b2774d67f6383943e74c5cc1f0f1b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第12章/AccelerometerSensorTest/bin/dexedLibs/annotations-7e80f6f7c9d949b206a3796ca0225e80.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第12章/AccelerometerSensorTest/bin/dexedLibs/annotations-71d57723ba71f6b867d4c18862ec4d4b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

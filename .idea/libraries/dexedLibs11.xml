@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第11章/LocationTest/bin/dexedLibs/baidumapapi_v2_3_1-1f7ad260d1548d26f11487b2c433f074.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第11章/LocationTest/bin/dexedLibs/annotations-71d57723ba71f6b867d4c18862ec4d4b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第11章/LocationTest/bin/dexedLibs/android-support-v4-186e9d09b171596c0cd25d87b999191c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

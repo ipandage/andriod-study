@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第6章/DatabaseTest/bin/dexedLibs/annotations-71d57723ba71f6b867d4c18862ec4d4b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第6章/DatabaseTest/bin/dexedLibs/android-support-v4-ddf7bdafb6aabe068f87060a041fb884.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

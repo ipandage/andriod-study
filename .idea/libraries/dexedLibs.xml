@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第8章/PlayVideoTest/bin/dexedLibs/android-support-v4-a3e22bdd28f7adf2f3ac42ee624db065.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Android第一行代码源码/第8章/PlayVideoTest/bin/dexedLibs/annotations-7e80f6f7c9d949b206a3796ca0225e80.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

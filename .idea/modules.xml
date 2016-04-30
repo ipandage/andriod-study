@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/andriod-study.iml" filepath="$PROJECT_DIR$/andriod-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第12章/AccelerometerSensorTest/AccelerometerSensorTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第12章/AccelerometerSensorTest/AccelerometerSensorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第2章/ActivityLifeCycleTest/ActivityLifeCycleTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第2章/ActivityLifeCycleTest/ActivityLifeCycleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第2章/ActivityTest/ActivityTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第2章/ActivityTest/ActivityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第9章/AndroidThreadTest/AndroidThreadTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第9章/AndroidThreadTest/AndroidThreadTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第11章/BaiduMapTest/BaiduMapTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第11章/BaiduMapTest/BaiduMapTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第5章/BroadcastBestPractice/BroadcastBestPractice.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第5章/BroadcastBestPractice/BroadcastBestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第5章/BroadcastTest/BroadcastTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第5章/BroadcastTest/BroadcastTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第5章/BroadcastTest2/BroadcastTest2.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第5章/BroadcastTest2/BroadcastTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第8章/ChoosePicTest/ChoosePicTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第8章/ChoosePicTest/ChoosePicTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第12章/CompassTest/CompassTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第12章/CompassTest/CompassTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第7章/ContactsTest/ContactsTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第7章/ContactsTest/ContactsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第14章/CoolWeather/CoolWeather.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第14章/CoolWeather/CoolWeather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第6章/DatabaseTest/DatabaseTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第6章/DatabaseTest/DatabaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第7章/DatabaseTest/DatabaseTest1.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第7章/DatabaseTest/DatabaseTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第6章/FilePersistenceTest/FilePersistenceTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第6章/FilePersistenceTest/FilePersistenceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentBasics/FragmentBasics.iml" filepath="$PROJECT_DIR$/FragmentBasics/FragmentBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第4章/FragmentBestPractice/FragmentBestPractice.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第4章/FragmentBestPractice/FragmentBestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第4章/FragmentTest/FragmentTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第4章/FragmentTest/FragmentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第1章/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第1章/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第12章/LightSensorTest/LightSensorTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第12章/LightSensorTest/LightSensorTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第11章/LocationTest/LocationTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第11章/LocationTest/LocationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/NetworkTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第10章/NetworkTest/NetworkTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第8章/NotificationTest/NotificationTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第8章/NotificationTest/NotificationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第8章/PlayAudioTest/PlayAudioTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第8章/PlayAudioTest/PlayAudioTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第8章/PlayVideoTest/PlayVideoTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第8章/PlayVideoTest/PlayVideoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第7章/ProviderTest/ProviderTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第7章/ProviderTest/ProviderTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第8章/SMSTest/SMSTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第8章/SMSTest/SMSTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第9章/ServiceBestPractice/ServiceBestPractice.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第9章/ServiceBestPractice/ServiceBestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第9章/ServiceTest/ServiceTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第9章/ServiceTest/ServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第6章/SharedPreferencesTest/SharedPreferencesTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第6章/SharedPreferencesTest/SharedPreferencesTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第3章/UIBestPractice/UIBestPractice.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第3章/UIBestPractice/UIBestPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第3章/UICustomViews/UICustomViews.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第3章/UICustomViews/UICustomViews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第3章/UILayoutTest/UILayoutTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第3章/UILayoutTest/UILayoutTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第3章/UIListViewTest/UIListViewTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第3章/UIListViewTest/UIListViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第3章/UISizeTest/UISizeTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第3章/UISizeTest/UISizeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第3章/UIWidgetTest/UIWidgetTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第3章/UIWidgetTest/UIWidgetTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android第一行代码源码/第10章/WebViewTest/WebViewTest.iml" filepath="$PROJECT_DIR$/Android第一行代码源码/第10章/WebViewTest/WebViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activity-lifecycle/activity-lifecycle.iml" filepath="$PROJECT_DIR$/activity-lifecycle/activity-lifecycle.iml" />
     </modules>
   </component>
 </project>
+
